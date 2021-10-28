@@ -2,7 +2,7 @@
 General Blender Nodes for Unity Shader Graph
 
 # Documentation
-Look wiki for documentation:
+Look wiki for documentation (WIP):
 https://github.com/Warwlock/blender-nodes-for-unity3d/wiki
 
 # Unity Version Bug - 2021.2.0f1 !!!
