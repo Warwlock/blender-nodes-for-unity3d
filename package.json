@@ -19,7 +19,7 @@
   ],
   "dependencies": {
       "com.unity.shadergraph": "12.1.16"
-  }
+  },
   "samples": [
     {
       "displayName": "4D Noise",
