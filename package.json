@@ -2,8 +2,8 @@
   "name": "com.warwlock.blendernodes",
   "displayName": "Blender Nodes for Unity",
   "version": "0.1.0",
-  "unity": "6000.0",
-  "unityRelease": "58f2",
+  "unity": "2021.3",
+  "unityRelease": "45f2",
   "description": "Blender Nodes for Unity",
   "documentationUrl": "https://github.com/Warwlock/blender-nodes-for-unity3d/blob/main/Documentation~/Documentation.md",
   "license": "MIT",
@@ -18,6 +18,6 @@
     "graph"
   ],
   "dependencies": {
-      "com.unity.shadergraph": "17.0.4"
+      "com.unity.shadergraph": "12.1.16"
   }
 }
