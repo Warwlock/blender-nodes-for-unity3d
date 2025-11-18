@@ -1,8 +1,13 @@
 # blender-nodes-for-unity3d
 General Blender Nodes for Unity Shader Graph
 
+Hlsl include files are borrowed from Blender's official github.
+
+Requirements
+------------
+- Unity 2021.3.45f2 (Shader Graph 12) or above.
+
 # Documentation
-Look wiki for documentation (WIP):
 https://github.com/Warwlock/blender-nodes-for-unity3d/wiki
 
 Installation
@@ -12,6 +17,6 @@ Installation
 - If Unity could not find **git**, consider installing it [here](https://git-scm.com/downloads).
 - Under a shader graph, create new node and look under "Blender Nodes".
 
-
-# Unity Version Bug - 2021.2.0f1 !!!
-I don't know how it is happening but dropdown nodes are not working in subgraphs. So Blender Nodes does not working with 2021.2.0f1. Maybe if unity finds a solution it will start work again. I think Shader Graph package have problems.
+References
+------------
+https://github.com/blender/blender
