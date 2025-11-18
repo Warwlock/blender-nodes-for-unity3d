@@ -6,7 +6,7 @@
   "unityRelease": "45f2",
   "description": "Blender Nodes for Unity",
   "documentationUrl": "https://github.com/Warwlock/blender-nodes-for-unity3d/blob/main/Documentation~/Documentation.md",
-  "license": "MIT",
+  "license": "GPL-3.0-or-later",
   "licensesUrl": "https://github.com/Warwlock/blender-nodes-for-unity3d/blob/main/LICENSE.md",
   "changelogUrl": "https://github.com/Warwlock/blender-nodes-for-unity3d/blob/main/CHANGELOG.md",
   "author": "Warwlock",
@@ -20,4 +20,20 @@
   "dependencies": {
       "com.unity.shadergraph": "12.1.16"
   }
+  "samples": [
+    {
+      "displayName": "4D Noise",
+      "description": "4D Noise Demo which is not possible in Unity without custom code.",
+      "path": "Samples~/4DNoise"
+    },
+    {
+      "displayName": "Blender Procedural Node",
+      "description": "Procedural image creation from nodes.",
+      "path": "Samples~/BlenderProceduralNode"
+    },
+    {
+      "displayName": "Magic Texture Example",
+      "description": "Procedural texture generation and animation.",
+      "path": "Samples~/MagicTextureExample"
+    }
 }
